@@ -4,4 +4,9 @@ body{
 .fa-solid{
     color: orange;
     font-size: 12px;
+    
+}
+.fa-brands{
+    font-size: 20px;
+    cursor: pointer;
 }
